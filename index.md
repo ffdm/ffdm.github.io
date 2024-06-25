@@ -23,3 +23,4 @@ I am a senior computer engineering undergraduate at the University of Michgian. 
 
 {% include_relative _includes/services.md %}
 -->
+{% include_relative _includes/publications.md %}
