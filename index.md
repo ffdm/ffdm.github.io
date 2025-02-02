@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a senior computer engineering undergraduate at the University of Michigan. I am currently working as a research assistant in the <a href="https://lugroup.engin.umich.edu" target="_blank">Wei Lu Nanoelectronics Group</a> on an FPGA implementation of the <a href="https://arxiv.org/abs/2303.10770" target="_blank">RN-Net</a> neural network architecture.
+I am a senior computer engineering undergraduate at the University of Michigan. I am currently working as a research assistant in the 
+<a href="https://web.eecs.umich.edu/~reetudas/researchgroup.html" target="_blank">M-Bits Research Group</a> on spiking neural network
+algorithms for automotive vision. I am also working in the <a href="https://lugroup.engin.umich.edu" target="_blank">Wei Lu Nanoelectronics Group</a>
+on an FPGA hardware system for reservoir computing with memristor crossbar arrays.
 
 <!---
 ## Research Interests
