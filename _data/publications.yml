@@ -10,11 +10,18 @@ main:
   #  image: ./assets/img/teaser_example_2.png
   #  notes: Early Accept
 
+  - title: "Evaluating Neuron Models for a 130-nm Spiking Neural Network Hardware Accelerator"
+    authors: Amy Liu, <strong>Finn Moore</strong>, Kristen Schang, Isaac Schuster, Emily Su
+    conference: University of Michigan EECS 570 Project Symposium, April 2025.
+    pdf: ./assets/files/snn-mnist.pdf
+    paper_pdf: ./assets/files/snn-mnist-paper.pdf
+
   - title: "Development of FPGA Processing Unit for Quantum Receiver Enhanced by Adaptive Learning"
     authors: <strong>Finn Moore</strong>, Kailu Zhou, Zheshen Zhang
     #conference_short: CVPR
     conference: University of Michigan UROP Research Symposium, April 2024.
     pdf: ./assets/files/qreal.pdf
+    paper_pdf: ./assets/files/qreal-paper.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -26,9 +33,10 @@ main:
     #conference_short: CVPR
     conference: University of Michigan EECS 545 Showcase, April 2024.
     pdf: ./assets/files/hms.pdf
-    paper_pdf: ./assets/files/hms_paper.pdf
+    paper_pdf: ./assets/files/hms-paper.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Blue Ribbon Award Winner
     image: ./assets/img/hms.png
+

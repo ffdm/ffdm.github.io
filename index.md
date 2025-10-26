@@ -6,9 +6,7 @@ layout: homepage
 
 I am a VLSI Master's student at the University of Michigan. I am currently working as a graduate student research assistant in the 
 <a href="https://web.eecs.umich.edu/~reetudas/researchgroup.html" target="_blank">M-Bits Research Group</a> on spiking neural network
-algorithms for energy efficient automotive vision. In the past I have worked in the <a href="https://lugroup.engin.umich.edu" target="_blank">Wei Lu Nanoelectronics Group</a>
-to design a FPGA-based machine learning hardware system for classification of mouse neural spikes using an RRAM array.
-
+algorithms for energy efficient automotive vision. In the past I've worked on efficient hardware for machine learning at <a href="memryx.com">MemryX</a> and in the <a href="https://lugroup.engin.umich.edu" target="_blank">Wei Lu Nanoelectronics Group</a>.
 <!---
 ## Research Interests
 
