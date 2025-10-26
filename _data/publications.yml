@@ -2,7 +2,7 @@ main:
 
   - title: "Evaluating Neuron Models for a 130-nm Spiking Neural Network Hardware Accelerator"
     authors: Amy Liu, <strong>Finn Moore</strong>, Kristen Schang, Isaac Schuster, Emily Su
-    conference: University of Michigan EECS 570 Project Symposium, April 2025.
+    conference: University of Michigan EECS 570 Showcase, April 2025.
     pdf: ./assets/files/snn-mnist.pdf
     paper_pdf: ./assets/files/snn-mnist-paper.pdf
     image: ./assets/img/snn-mnist.png
