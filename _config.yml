@@ -1,12 +1,12 @@
 # Basic Information 
 title: Finn Moore
-# position: Undergraduate Student
+# position: Graduate Student Research Assistant
 affiliation: University of Michigan
 email: fdm (at) umich (dot) edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: finn moore vlsi hardware computer engineer ML learning michigan
+keywords: finn moore vlsi hardware computer engineer ML learning michigan umich midland research
 description: Personal home page forked from the minimal-light Jekyll theme
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -16,11 +16,10 @@ canonical: https://minimal-light-theme.yliu.me/
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ffdm
 linkedin: https://www.linkedin.com/in/finnmoore
-# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 

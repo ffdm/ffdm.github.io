@@ -1,7 +1,3 @@
-:root {
-  --avatar-size: 300px;  /* <-- CHANGE ONLY THIS NUMBER */
-}
-
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -212,9 +208,6 @@ papertitle {
 
     .image.avatar {
       border-radius: 100%;
-      display: flex;              /* Added for centering */
-      justify-content: center;    /* Horizontal center */
-      align-items: center;        /* Vertical center */
     }
 
       .image.avatar:before {
@@ -223,19 +216,16 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: var(--avatar-size);
-        height: auto;
-        display: block;           /* Removes extra space below image */
-        margin: 10px;             /* Changed from padding to margin */
-        padding: 0;               /* Remove padding (was causing offset) */
+        width: 45%;
+        padding: 20px;
         // border: 1px solid #ddd;
+        // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
     #header .image.avatar {
-      margin: 0 auto 1em auto;    /* Center container in sidebar */
-      width: 100%;                /* Take full width for alignment */
-      box-sizing: border-box;
+      margin: 0 0 1em 0;
+      width: 8.00em;
     }
 
 h3, h4, h5, h6 {
@@ -507,6 +497,12 @@ footer {
     top:52px;
   }
 
+
+   .image.avatar img {
+        border-radius: 100%;
+        width: 117px;
+        padding:20px;
+      }
   #head1o2 {
     visibility: hidden;
   }
@@ -558,6 +554,11 @@ footer {
     width:33%;
   }
 
+  .image.avatar img {
+      border-radius: 100%;
+      width: 95px;
+      padding:20px;
+  }
   #head1o2 {
     visibility: hidden;
   }
