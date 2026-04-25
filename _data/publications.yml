@@ -1,5 +1,9 @@
 main:
 
+  - title: "Stable Neural Signal Recording Processed by Memristor‐Based Reservoir Computing System"
+    authors: Soohyeon Kim, Yuting Wu, <strong>Finn Moore</strong>, Mingtao Hu, Xiaoyu Zhang, Sangmin Yoo, Eric Yeu-Jer Lee, Hao Shen, Yichun He, Jia Liu, Wei D. Lu
+    conference: Advanced Intelligent Systems, April 2026.
+
   - title: "Evaluating Neuron Models for a 130-nm Spiking Neural Network Hardware Accelerator"
     authors: Amy Liu, <strong>Finn Moore</strong>, Kristen Schang, Isaac Schuster, Emily Su
     conference: University of Michigan EECS 570 Showcase, April 2025.
@@ -30,4 +34,3 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Blue Ribbon Award Winner
     image: ./assets/img/hms.png
-
