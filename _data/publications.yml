@@ -1,8 +1,12 @@
-main:
+papers:
 
   - title: "Stable Neural Signal Recording Processed by Memristor‐Based Reservoir Computing System"
     authors: Soohyeon Kim, Yuting Wu, <strong>Finn Moore</strong>, Mingtao Hu, Xiaoyu Zhang, Sangmin Yoo, Eric Yeu-Jer Lee, Hao Shen, Yichun He, Jia Liu, Wei D. Lu
     conference: Advanced Intelligent Systems, April 2026.
+    page: https://doi.org/10.1002/aisy.202600005
+    pdf: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202600005
+
+posters:
 
   - title: "Evaluating Neuron Models for a 130-nm Spiking Neural Network Hardware Accelerator"
     authors: Amy Liu, <strong>Finn Moore</strong>, Kristen Schang, Isaac Schuster, Emily Su

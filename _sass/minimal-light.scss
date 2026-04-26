@@ -306,7 +306,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1100px;
   margin:0 auto;
 }
 
@@ -442,7 +442,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:790px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -468,7 +468,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1100px) {
 
   .pub-row {
   display: flex; 
@@ -517,7 +517,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1100px) {
   body {
     word-wrap:break-word;
     padding:15px;
@@ -594,3 +594,4 @@ footer {
   display:none;
   font-family: monospace;
 }
+
