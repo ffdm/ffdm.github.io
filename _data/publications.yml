@@ -26,15 +26,3 @@ posters:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Blue Ribbon Award Winner
     image: ./assets/img/qreal.png
-
-  - title: "Detecting Harmful Brain Activity with Ensemble Learning"
-    authors: Ajay Pillay, <strong>Finn Moore</strong>, Nikhil Patel, Nilay Gautam, Soham Das
-    #conference_short: CVPR
-    conference: University of Michigan EECS 545 Showcase, April 2024.
-    pdf: ./assets/files/hms.pdf
-    paper_pdf: ./assets/files/hms-paper.pdf
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #notes: Blue Ribbon Award Winner
-    image: ./assets/img/hms.png
